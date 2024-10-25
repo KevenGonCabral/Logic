@@ -1,2 +1,2 @@
-# Logic
-Exercicios de Lógica
+# Logic 🧠
+The basics.
