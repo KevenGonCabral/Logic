@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1657409477 source:c:\users\marce\desktop\linguagem c\livro de receitas fup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1657745196 source:c:\users\marce\desktop\trabalho final kevenn\livro de receitas fup\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
